@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Xmas_22_Stage_Check_In.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sciSend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="sciCInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="sciMonitor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="sciPhotobooth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="sciSend1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="sciSend2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="sciMInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="sciU1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="sciU2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="sciPhotoLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ashcr\Downloads\New folder</Value>
+    </Setting>
+    <Setting Name="sciPInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="sciPicSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
